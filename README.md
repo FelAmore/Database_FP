@@ -7,3 +7,4 @@ daunting. Regardless of their preferences for foreign films, timeless classics, 
 
 ## Files
 + FAMDb Code.py contains all the code needed to run the movie database management system.
++ MyDb.sql contains the databse used for this movie database management system.
